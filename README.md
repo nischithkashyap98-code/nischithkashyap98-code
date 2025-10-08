@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nischithkashyap98-code/nischithkashyap98-code/main/banner.png" alt="Nischith Kashyap S GitHub Banner" width="100%">
+</p>
 <h1 align="center">👋 Hey there, I'm Nischith Kashyap S</h1>
 <h3 align="center">💻 Software Engineer | ⚙️ DevOps Engineer | 🔩 Mechanical Innovator</h3>
 
