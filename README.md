@@ -44,8 +44,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischithkashyap98-code&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischithkashyap98-code&theme=blue_navy&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=79C0FF" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nischithkashyap98-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischithkashyap98-code&theme=tokyonight" width="48%">
 </p>
 
 
