@@ -24,7 +24,6 @@ Focused on creating futuristic digital experiences that *move and breathe*.
 🎨 **Visit My Portfolio:**
 🔗 [nischithkashyap.netlify.app](https://nischithkashyap.netlify.app)
 
-![Portfolio Banner](https://nischithkashyap.netlify.app/assets/banner.png)
 
 ---
 
@@ -46,12 +45,12 @@ Focused on creating futuristic digital experiences that *move and breathe*.
 
 ## 📚 Featured Projects
 
-| 🚀 Project                                                                               | 💡 Description                                           | 🌍 Live                                        |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- |
-| **[System Pulse](https://github.com/nischithkashyap98-code/SystemPulse)**                | Real-time system monitoring app with animated dashboards | ✅ [View Live](https://systempulse.netlify.app) |
-| **[Contentor](https://github.com/nischithkashyap98-code/Contentor)**                     | Digital bookshelf & publishing platform                  | 🔗 Coming Soon                                 |
-| **[Smart Tyre Inflation](https://github.com/nischithkashyap98-code/SmartTyreInflation)** | IoT-based pressure optimization system                   | 🚗 Prototype                                   |
-| **[CloudOps Pipeline](https://github.com/nischithkashyap98-code/CloudOpsPipeline)**      | CI/CD & Cloud automation project                         | ☁️ Work in Progress                            |
+| 🚀 Project                                                                               | 💡 Description                                           |   
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | 
+| **[System Pulse](https://github.com/nischithkashyap98-code/SystemPulse)**                | Real-time system monitoring app with animated dashboards | 
+| **[Contentor](https://github.com/nischithkashyap98-code/Contentor)**                     | Digital bookshelf & publishing platform                  | 
+| **[Smart Tyre Inflation](https://github.com/nischithkashyap98-code/SmartTyreInflation)** | IoT-based pressure optimization system                   | 
+| **[CloudOps Pipeline](https://github.com/nischithkashyap98-code/CloudOpsPipeline)**      | CI/CD & Cloud automation project                         | 
 
 ---
 
