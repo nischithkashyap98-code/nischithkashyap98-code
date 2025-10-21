@@ -1,71 +1,109 @@
-<h1 align="center">👋 Hey there, I'm Nischith Kashyap S</h1>
-<h3 align="center">💻 Software Engineer | ⚙️ DevOps Engineer | 🔩 Mechanical Innovator</h3>
+
+---
+
+# 👋 Hi, I’m **Nischith Kashyap S**
+
+💻 **Software Engineer | DevOps Engineer | Mechanical Innovator**
+I craft intelligent, performant systems and elegant frontends — merging engineering discipline with modern software craftsmanship.
+Focused on creating futuristic digital experiences that *move and breathe*.
+
+---
+
+## ⚡ About Me
+
+* 🧠 Passionate about **Full-Stack Development**, **DevOps**, and **Automation Pipelines**
+* ⚙️ Skilled in **React**, **Node.js**, **TailwindCSS**, **Framer Motion**, and **Docker**
+* ☁️ Exploring **CloudOps**, **CI/CD pipelines**, and **AWS Cloud services**
+* 🛠️ Love merging **Mechanical Engineering principles** with **software innovation**
+* 🎯 Goal: Building smart, self-optimizing systems that scale beautifully
+
+---
+
+## 🌐 My Live Portfolio
+
+🎨 **Visit My Portfolio:**
+🔗 [nischithkashyap.netlify.app](https://nischithkashyap.netlify.app)
+
+![Portfolio Banner](https://nischithkashyap.netlify.app/assets/banner.png)
+
+---
+
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-🚀 Passionate about bridging the gap between code, cloud, and mechanical systems to build scalable, efficient, and impactful solutions.
+  <img src="https://img.shields.io/badge/React-%2300d8ff.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-%23E61E6E.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Docker-%230249ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently mastering **DevOps and Cloud Technologies (Docker, AWS, CI/CD, Jenkins)**  
-- 💡 Experienced in **Full Stack Web Development** (HTML, CSS, JavaScript, MERN)  
-- ⚙️ Background in **Mechanical Engineering** with expertise in **AutoCAD, SolidWorks & ANSYS**  
-- 💬 Love collaborating on **automation**, **system design**, and **cloud deployment** projects  
-- 📫 Reach me at: **nischithkashyap98@gmail.com**  
-- 🌐 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/nischith-kashyap-s-aa413a389/)
+## 📚 Featured Projects
+
+| 🚀 Project                                                                               | 💡 Description                                           | 🌍 Live                                        |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- |
+| **[System Pulse](https://github.com/nischithkashyap98-code/SystemPulse)**                | Real-time system monitoring app with animated dashboards | ✅ [View Live](https://systempulse.netlify.app) |
+| **[Contentor](https://github.com/nischithkashyap98-code/Contentor)**                     | Digital bookshelf & publishing platform                  | 🔗 Coming Soon                                 |
+| **[Smart Tyre Inflation](https://github.com/nischithkashyap98-code/SmartTyreInflation)** | IoT-based pressure optimization system                   | 🚗 Prototype                                   |
+| **[CloudOps Pipeline](https://github.com/nischithkashyap98-code/CloudOpsPipeline)**      | CI/CD & Cloud automation project                         | ☁️ Work in Progress                            |
 
 ---
 
-### 🧠 Tech Stack  
+## 🏅 Certifications
 
-#### 🖥️ Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-
-#### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=ff9900)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
-
-#### 🧩 Frameworks & Databases  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+* Full-Stack Web Development – KodNest, Bengaluru
+* Cloud & DevOps Fundamentals – Self-Learning
+* AWS Cloud Practitioner – In Progress
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischithkashyap98-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischithkashyap98-code&theme=tokyonight" width="48%">
-</p>
-
-
----
-
-### 🏗️ Projects
-Here are some projects I’ve worked on:
-- 📚 **Contentor** – A full-stack eBook publishing platform for digital creators.  
-- ☁️ **CloudOps Pipeline** – Automated CI/CD deployment pipeline using Jenkins & Docker on AWS EC2.  
-- 🔩 **Smart Tyre Inflation System** – Mechanical automation system ensuring vehicle tyre safety.
-
-Check out more in my [**repositories**](https://github.com/nischithkashyap98-code?tab=repositories).
-
----
-
-### 🌱 Fun Fact
-I’m constantly learning how to integrate **mechanical innovation** with **software automation** to build futuristic systems that think, act, and adapt.  
-
----
+## 🧩 GitHub Insights
 
 <p align="center">
-✨ Crafted with passion by <b>Nischith Kashyap S</b> ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=nischithkashyap98-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b8912b&icon_color=b8912b" alt="Nischith's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nischithkashyap98-code&theme=tokyonight&hide_border=true&background=0d1117&ring=b8912b&fire=b8912b&currStreakLabel=b8912b" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nischith-kashyap-s-aa413a389" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nischithkashyap98-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:nischithkashyap98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nischithkashyap.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23b8912b.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🪄 Fun Fact
+
+> “Code is like art — every function, every pixel, every automation tells a story.” ✨
+
+---
+
+## 📜 License
+
+This profile and its projects are open-source and free for inspiration or learning.
+
+---
+
+
