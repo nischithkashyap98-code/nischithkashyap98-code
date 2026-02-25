@@ -22,7 +22,7 @@ Focused on creating futuristic digital experiences that *move and breathe*.
 ## 🌐 My Live Portfolio
 
 🎨 **Visit My Portfolio:**
-🔗 [nischithkashyap.netlify.app](https://nischithkashyap.netlify.app)
+🔗 [nischithskashyap.netlify.app](https://nischithskashyap.netlify.app)
 
 
 ---
